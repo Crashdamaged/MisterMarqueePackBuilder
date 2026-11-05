@@ -20,7 +20,7 @@ MAX_MATCHES = 10
 
 IMAGE_EXTENSIONS = {
     ".png", ".jpg", ".jpeg", ".bmp",
-    ".gif", ".webp", ".tif", ".tiff"
+    ".gif", ".webp", ".tif", ".tiff", ".mp4"
 }
 
 
